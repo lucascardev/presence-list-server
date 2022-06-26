@@ -1,0 +1,14 @@
+{
+  "name": "presence-list-server",
+  "version": "0.0.0",
+  "description": "Server for database of lists management",
+  "main": "server.js",
+  "author": "lucascardev",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "moment": "^2.29.1",
+    "node-schedule": "^2.0.0",
+    "p-queue": "^6.6.2"
+  }
+}
